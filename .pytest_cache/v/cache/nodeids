@@ -1,0 +1,11 @@
+[
+  "tests/test_append_array.py::test_append_array",
+  "tests/test_append_array.py::test_append_array_2",
+  "tests/test_divide.py::test_divide",
+  "tests/test_divide.py::test_divide__division_zero",
+  "tests/test_list_types.py::test_types_count[array0-int-3]",
+  "tests/test_list_types.py::test_types_count[array1-int-1]",
+  "tests/test_list_types.py::test_types_count[array2-str-2]",
+  "tests/test_list_types.py::test_types_count[array3-str-3]",
+  "tests/test_list_types.py::test_types_count[array4-int-0]"
+]
